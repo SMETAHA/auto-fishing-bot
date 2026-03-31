@@ -1,0 +1,1 @@
+{  "manifest_version": 3,  "name": "Auto Fishing and Battle Bot",  "version": "1.0",  "description": "Бот для автоматической рыбалки и участия в битвах.",  "permissions": ["scripting", "activeTab"],  "host_permissions": ["https://*/*", "http://*/*"],  "action": {    "default_popup": "popup.html"  }}
